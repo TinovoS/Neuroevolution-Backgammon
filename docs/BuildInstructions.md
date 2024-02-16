@@ -1,22 +1,3 @@
-# Backgammon++
-
-<p>
-  <img src="docs/screenshots/main_menu.png" width="38%"  alt="board overview"/>
-  <img src="docs/screenshots/game_board.png" width="61.3%"  alt="white pieces"/>
-</p>
-
-Online Backgammon multiplayer game written in C++ using QT framework.
-
-Backgammon++ supports multiple game modes - playing online, playing against our custom built neural network, or playing locally (2 players using the same machine to take turns). 
-
-Additionally, Backgammon++ also includes multiple games played on the [tables](https://en.wikipedia.org/wiki/Tables_game) board:
-- [Backgammon](https://en.wikipedia.org/wiki/Backgammon)
-- [Long Nardy](https://en.wikipedia.org/wiki/Long_Nardy)
-
-<br>
-
-Demo video (in Serbian): [link](https://www.youtube.com/watch?v=pObS1RZxKF8)
-
 ## Building instructions
 
 ### Using QT Creator
@@ -53,12 +34,3 @@ The binary is located inside the build directory, and can be launched from the t
 ```bash
 cd build/ && ./BackgammonPP
 ```
-
-## The team
- - <a href="https://gitlab.com/Brankonymous">Branko Grbić, 2/2020</a>
- - <a href="https://gitlab.com/ivangogic">Ivan Gogić, 29/2020</a>
- - <a href="https://gitlab.com/mgrujcic">Marko Grujčić, 15/2020</a>
- - <a href="https://gitlab.com/igorkandic">Igor Kandić, 70/2020</a>
- - <a href="https://gitlab.com/mladenpuzic">Mladen Puzić, 18/2020</a>
- - <a href="https://gitlab.com/daniilgrbic">Daniil Grbić, 42/2020</a>
- - <a href="https://gitlab.com/azecevic0">Aleksandar Zečević, 45/2020</a>
